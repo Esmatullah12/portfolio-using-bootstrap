@@ -1,0 +1,42 @@
+.header {
+  background-color: #3e3c3c;
+  height: 72px;
+}
+
+.theme-color {
+  color: #f55800;
+}
+
+.dark-section {
+  background-color: #1c1a19;
+}
+
+.welcome-page-text {
+  padding-left: 4rem;
+}
+
+.card-body {
+  background-image: url(../images/background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 435px;
+}
+
+.hrclass {
+  height: 2px;
+  width: 100%;
+  border-width: 0;
+  color: black;
+  background-color: black;
+}
+
+.aboutme-p {
+  width: 50%;
+}
+
+#welcome-page {
+  background-image: url(../images/desktop-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  height: 100vh;
+}
